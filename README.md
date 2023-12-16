@@ -14,12 +14,12 @@
 ## Support me
 
     You can give me coffee support here 👇👇👇
-[![Buy Me Coffee](asset/qr_code.jpg)](https://www.facebook.com/msorng.saiydala.la)
+[![Buy Me Coffee](asset/qr_code.jpg)](https://www.facebook.com/photo.php?fbid=1333968513902211&set=p.1333968513902211&type=3)
 
 ## Follow me
 
-Add Friend :  [documentation](https://www.facebook.com/msorng.saiydala.la).
-My Github :  [documentation](https://github.com/Johnniemor).
+Add Friend :  [facebbok](https://www.facebook.com/msorng.saiydala.la).
+My Github :  [github](https://github.com/Johnniemor).
 
 
 ## Big Thanks 🫶

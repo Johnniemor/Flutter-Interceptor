@@ -1,0 +1,34 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.build/
+.clang_complete
+.dart_language_server/
+.pub-cache/
+.test_coverage/
+.webdev/
+
+# IntelliJ and Android Studio files
+.idea/
+*.iml
+*.iws
+*.iwp
+
+# Visual Studio Code files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Exclude .g and .dev_tool folders only in android and ios
+android/.g/
+android/.dev_tool/
+ios/.g/
+ios/.dev_tool/

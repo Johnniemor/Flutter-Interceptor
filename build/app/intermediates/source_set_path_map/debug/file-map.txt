@@ -1,0 +1,15 @@
+com.example.app_interceptor_rt.app-jetified-window-1.0.0-beta04-0 C:\Users\thoub\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.app_interceptor_rt.app-jetified-security-crypto-1.1.0-alpha06-1 C:\Users\thoub\.gradle\caches\transforms-3\2dd5e7ab9230030ff78143f5215ea597\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.example.app_interceptor_rt.app-jetified-annotation-experimental-1.1.0-2 C:\Users\thoub\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.app_interceptor_rt.app-core-1.6.0-3 C:\Users\thoub\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.app_interceptor_rt.app-jetified-window-java-1.0.0-beta04-4 C:\Users\thoub\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.app_interceptor_rt.app-debug-5 D:\sorng back up\sorng-backUp\app_interceptor_rt\android\app\src\debug\res
+com.example.app_interceptor_rt.app-main-6 D:\sorng back up\sorng-backUp\app_interceptor_rt\android\app\src\main\res
+com.example.app_interceptor_rt.app-pngs-7 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\generated\res\pngs\debug
+com.example.app_interceptor_rt.app-resValues-8 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\generated\res\resValues\debug
+com.example.app_interceptor_rt.app-rs-9 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\generated\res\rs\debug
+com.example.app_interceptor_rt.app-mergeDebugResources-10 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.app_interceptor_rt.app-mergeDebugResources-11 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.app_interceptor_rt.app-merged_res-12 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\app\intermediates\merged_res\debug
+com.example.app_interceptor_rt.app-packaged_res-13 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\flutter_secure_storage\intermediates\packaged_res\debug
+com.example.app_interceptor_rt.app-packaged_res-14 D:\sorng back up\sorng-backUp\app_interceptor_rt\build\path_provider_android\intermediates\packaged_res\debug

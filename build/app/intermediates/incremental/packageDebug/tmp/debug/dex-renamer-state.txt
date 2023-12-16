@@ -1,0 +1,4 @@
+#Sat Dec 16 14:34:25 ICT 2023
+base.0=D\:\\sorng back up\\sorng-backUp\\app_interceptor_rt\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
