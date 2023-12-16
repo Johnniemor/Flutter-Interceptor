@@ -9,13 +9,11 @@ part of 'auth_service.dart';
 LoginBody _$LoginBodyFromJson(Map<String, dynamic> json) => LoginBody(
       json['username'] as String,
       json['password'] as String,
-      json['deviceId'] as String,
     );
 
 Map<String, dynamic> _$LoginBodyToJson(LoginBody instance) => <String, dynamic>{
       'username': instance.username,
       'password': instance.password,
-      'deviceId': instance.deviceId,
     };
 
 // **************************************************************************

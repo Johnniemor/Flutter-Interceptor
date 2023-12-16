@@ -18,10 +18,10 @@ class AuthRepositoryImpl implements AuthRepository {
 
   @override
   Future<Either<Failure, AuthEntity>> login(
-      String username, String password, String deviceId) async {
+      String username, String password) async {
     try {
       final response =
-          await _remoteDataSource.login(username, password, deviceId);
+          await _remoteDataSource.login(username, password);
       await _localDataSource.saveAccessToken(
           accessToken: response.token.accessToken);
       await _localDataSource.saveRefreshToken(

@@ -9,7 +9,7 @@ import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 
 abstract class AuthRemoteDataSource{
-  Future<AuthModel> login(String username , String password , String deviceId);
+  Future<AuthModel> login(String username , String password);
   Future<AuthModel> refreshToken(String refreshToken);
 }
 
@@ -21,9 +21,9 @@ class AuthRemoteDataSourceImpl implements AuthRemoteDataSource{
   AuthRemoteDataSourceImpl(this._authService);
   
   @override
-  Future<AuthModel> login(String username, String password, String deviceId) async {
+  Future<AuthModel> login(String username, String password) async {
     try {
-      return await _authService.login(LoginBody(username, password, deviceId));
+      return await _authService.login(LoginBody(username, password));
     } on DioException catch (e) {
       throw ResponseHelper.returnResponse(e);
     } on ServerException catch (e) {

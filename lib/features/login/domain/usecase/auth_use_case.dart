@@ -13,7 +13,7 @@ class AuthUseCase implements UseCase<Either<Failure , AuthEntity> , LoginParams 
   AuthUseCase({required AuthRepository authRepository}) : _authRepository = authRepository;
   @override
   Future<Either<Failure, AuthEntity>> call(LoginParams params) async {
-   return await _authRepository.login(params.username, params.password, params.deviceId);
+   return await _authRepository.login(params.username, params.password);
   }
   
 }

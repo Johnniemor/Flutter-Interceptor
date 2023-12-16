@@ -30,9 +30,8 @@ abstract class AuthService {
 class LoginBody {
   final String username;
   final String password;
-  final String deviceId;
 
-  const LoginBody(this.username, this.password, this.deviceId);
+  const LoginBody(this.username, this.password);
 
   factory LoginBody.fromJson(Map<String, dynamic> json) => _$LoginBodyFromJson(json);
 

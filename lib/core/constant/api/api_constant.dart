@@ -1,8 +1,8 @@
 // API BaseURL
-const String baseUrl = "https://ptl-backend-fnmxx.ondigitalocean.app";
+const String baseUrl = "your-base-api-url";
 
 // API Login URL
-const String loginUrl = "/api/auth-user/sign-in";
+const String loginUrl = "your-login-api-url";
 
 // API Refresh Token URL
-const String refrestTokenUrl = "/api/auth-user/refresh";
+const String refrestTokenUrl = "your-refrest-token-api-url";

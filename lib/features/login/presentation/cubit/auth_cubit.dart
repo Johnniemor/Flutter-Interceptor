@@ -26,7 +26,7 @@ class AuthCubit extends Cubit<AuthState> {
     emit(const AuthState.loading());
     
       final response = await _authUseCase(LoginParams(
-          username: username, password: password, deviceId: "800001222"));
+          username: username, password: password));
       response.fold((l) {
         emit(AuthState.failure(l.message));
       }, (result) {
