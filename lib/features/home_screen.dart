@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget implements AutoRouteWrapper {
                 height: 60,
                 width: size.width,
                 child: ElevatedButton(
-                    child: const Text("Login"),
+                    child: const Text("LogOut"),
                     onPressed: () {
                       context.read<AuthCubit>().logOut();
                     }),
